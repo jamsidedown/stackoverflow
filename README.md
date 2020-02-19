@@ -11,6 +11,8 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
+Alternatively, create a python environment using `python -m venv env` and install all dependencies using `pip install -r requirements.txt`
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
